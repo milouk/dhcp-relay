@@ -1,3 +1,5 @@
+!! This image is only for `linux/arm64/v8` based OSs. !!
+
 This is a dhcp relay using the dhcp-helper.
 
 
